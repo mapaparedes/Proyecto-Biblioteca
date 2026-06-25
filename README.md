@@ -34,13 +34,13 @@ El desarrollo prioriza los casos de uso transaccionales de alto riesgo del docum
 
 ---
 
-## Equipo de Trabajo - Grupo 10
+## Equipo de Trabajo 
 El proyecto está gestionado por un equipo multidisciplinario con responsabilidades asignadas en el tablero Kanban
 
-* **Zachary Bazile** - Product Owner (Supervisión y Planificación Inicial)[cite: 1].
-* **Ignacio Miranda** - Arquitecto / Diseñador de Software (Modelado UML y Base de Datos)[cite: 1].
-* **Jordan Caro** - Analista de Sistemas (Levantamiento de Requisitos y Validación ERS)[cite: 1].
-* **Alejandro Romero** - Desarrollo Full-Stack (Implementación de Frontend y Backend)[cite: 1].
+* **Zachary Bazile** - Product Owner (Supervisión y Planificación Inicial)
+* **Ignacio Miranda** - Arquitecto / Diseñador de Software (Modelado UML y Base de Datos)
+* **Jordan Caro** - Analista de Sistemas (Levantamiento de Requisitos y Validación ERS)
+* **Alejandro Romero** - Desarrollo Full-Stack (Implementación de Frontend y Backend)
 * **Milton Paredes A.** - Científico de Datos (Módulo de Reportes, Estadísticas Avanzadas e Inventario)
 * **Equipo QA** - Pruebas de Calidad Final y Validación Funcional.
 
